@@ -52,3 +52,15 @@ The model parameter of above cmd can be set to `AE`, `rdp`, `svdd`, `NTL`, `LoeN
 
 # Contact and Cooperation
 If you have any message, please contact the first author's email, i.e., hyh957947142@gmail.com.
+
+# Citation
+If you find our work useful, please consider citing our paper below. Thank you!
+```
+@inproceedings{huang2024entropystop,
+  title={Entropystop: Unsupervised deep outlier detection with loss entropy},
+  author={Huang, Yihong and Zhang, Yuang and Wang, Liping and Zhang, Fan and Lin, Xuemin},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={1143--1154},
+  year={2024}
+}
+```
