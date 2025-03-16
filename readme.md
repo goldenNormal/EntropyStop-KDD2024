@@ -3,6 +3,8 @@ Welcome! This is the official code for paper "EntropyStop: Unsupervised Deep Out
 
 full paper link: https://arxiv.org/abs/2405.12502
 
+⭐ If you find this repository helpful, please consider giving it a star! ⭐
+
 # Requirements
 This code requires the following:
 
